@@ -81,5 +81,6 @@ Fontes Utilizadas na Resposta:
 
 ## 6. Materiais de Estudo Gerados no Estúdio
 
-
+- '/estudio/
+- '/prints' — Pasta contendo capturas de tela das respostas do chat com as respectivas citações ativas.
 ---
