@@ -14,6 +14,7 @@ Este repositório documenta a criação e configuração de um Segundo Cérebro 
 
 Você pode acessar o caderno interativo completo na nuvem através do link abaixo:
 
+https://notebook.google.com/notebook/1a905607-ceda-4f82-9fc9-bc013b73c07e
 
 ---
 
