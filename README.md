@@ -56,6 +56,9 @@ Para orientar as respostas da IA de forma acadêmica e precisa, a seguinte diret
 
 Ao interagir com o segundo cérebro, a IA analisa o ecossistema do Sistema Da Vinci estruturando os dados com rigor científico e citações automáticas:
 
+### Pergunta 1: Quais são as principais diferenças e vantagens da cirurgia robótica em relação à cirurgia tradicional aberta?
+
+**Síntese da Resposta do Notebook:** O caderno demonstra que, enquanto a cirurgia aberta exige grandes incisões e acesso direto manual, a cirurgia robótica é minimamente invasiva, operada por meio de pequenas incisões (trocartes)[cite: 2]. O cirurgião comanda o sistema sentado em um console ergonômico[cite: 2], contando com visão tridimensional (3D) em alta definição ampliada em até 10 vezes[cite: 2]. As vantagens clínicas documentadas englobam menor perda sanguínea, redução significativa da dor pós-operatória, menor tempo de internação e maior precisão na preservação neurovascular em áreas delicadas.
 
 ---
 
