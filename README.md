@@ -81,6 +81,7 @@ Fontes Utilizadas na Resposta:
 
 ## 6. Materiais de Estudo Gerados no Estúdio
 
-- '/estudio/
+- 'estudo/A_Anatomia_da_Precisão.pdf' 
+- '/estudio/NotebookLM Mind Map (1).png'
 - '/prints' — Pasta contendo capturas de tela das respostas do chat com as respectivas citações ativas.
 ---
