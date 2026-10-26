@@ -56,9 +56,25 @@ Para orientar as respostas da IA de forma acadêmica e precisa, a seguinte diret
 
 Ao interagir com o segundo cérebro, a IA analisa o ecossistema do Sistema Da Vinci estruturando os dados com rigor científico e citações automáticas:
 
-### Pergunta 1: Quais são as principais diferenças e vantagens da cirurgia robótica em relação à cirurgia tradicional aberta?
+### Pergunta 1: "Quais são as principais diferenças e vantagens da cirurgia robótica em relação à cirurgia tradicional aberta?"
 
-**Síntese da Resposta do Notebook:** O caderno demonstra que, enquanto a cirurgia aberta exige grandes incisões e acesso direto manual, a cirurgia robótica é minimamente invasiva, operada por meio de pequenas incisões (trocartes)[cite: 2]. O cirurgião comanda o sistema sentado em um console ergonômico[cite: 2], contando com visão tridimensional (3D) em alta definição ampliada em até 10 vezes[cite: 2]. As vantagens clínicas documentadas englobam menor perda sanguínea, redução significativa da dor pós-operatória, menor tempo de internação e maior precisão na preservação neurovascular em áreas delicadas.
+Síntese da Resposta do Notebook: O caderno contrapõe a cirurgia aberta (que exige grandes incisões, manipulação manual direta e iluminação convencional) à cirurgia robótica minimamente invasiva[cite: 2]. O assistente detalha o funcionamento do Console do Cirurgião (com ajustes ergonômicos e travas de segurança), dos Braços Articulados com filtro de tremor e rotação de 360° e da Visão 3D Imersiva ampliada em até 10 vezes[cite: 2]. Além disso, destaca as vantagens clínicas para o paciente (menor perda sanguínea, menos dor, internação mais curta, recuperação rápida e preservação de nervos) e aborda o avanço da telecirurgia a milhares de quilômetros.
+
+Fontes Utilizadas na Resposta:
+  * Video: *Fantástico - Robôs ajudam médicos a operar pacientes a milhares de quilômetros de distância*
+  * Vídeo: *Dr. Antônio Flávio - Robô Da Vinci Xi: tudo o que você precisa saber*
+  * Vídeo: *Dr. João Felipe Nunes - Como opera o robô Da Vinci?*
+  * Artigo: *Cleveland Clinic - Da Vinci Surgery*[cite: 1, 2]
+  * Artigo: *Dr. Fernando Leão - Vantagens e Desvantagens da Cirurgia Robótica*
+  * Artigo: *SBCO - Benefícios da Cirurgia Robótica em Comparação com Métodos Tradicionais*
+
+### Pergunta 2: "Como o cirurgião interage com o console e os braços mecânicos durante a operação?"
+
+Síntese da Resposta do Notebook: O assistente explica a interação em tempo real entre o Console do Cirurgião e o Carrinho do Paciente[cite: 1, 2]. Detalha a preparação e ajuste ergonômico prévio do console (altura dos braços, visor e pedais)[cite: 2], o manuseio dos manípulos de controle (joysticks) que replicam os movimentos da mão em 360° eliminando tremores involuntários[cite: 1, 2], o controle da câmera endoscópica no visor 3D através de pedais dedicados[cite: 1] e o acionamento de energias de corte e cauterização (monopolar e bipolar). Por fim, reforça que o robô não possui autonomia e destaca o sensor óptico no visor que trava o sistema por segurança caso o cirurgião afaste o rosto[cite: 1, 2].
+Fontes Utilizadas na Resposta:
+  * Vídeo: *Dr. Antônio Flávio - Robô Da Vinci Xi: tudo o que você precisa saber*
+  * Vídeo: *Dr. João Felipe Nunes - Como opera o robô Da Vinci?*[cite: 1, 2]
+  * Artigo: *Cleveland Clinic - Da Vinci Surgery*[cite: 2]
 
 ---
 
